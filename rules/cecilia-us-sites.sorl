@@ -1,0 +1,23 @@
+[SwitchyOmega Conditions]
+
+; United States government and GIS services
+*.gov
+*.gis
+*.arcgis.com
+*.arcgisonline.com
+*.esri.com
+*.geocortex.com
+*.giscloud.com
+*.vertigisstudio.com
+
+; Home Depot and first-party static assets
+*.homedepot.com
+*.thdstatic.com
+
+; Yelp and first-party static assets
+*.yelp.com
+*.yelpcdn.com
+
+; Houzz and first-party static assets
+*.houzz.com
+*.hzcdn.com
