@@ -17,5 +17,6 @@ Proxy credentials are intentionally not stored here.
 
 6. Click `Download Profile Now`, then apply the changes.
 
-The list routes US government and common GIS services, Home Depot, Yelp, and
-Houzz through the selected proxy profile. Other sites remain direct.
+The list routes US government and common GIS services, Home Depot, Yelp, Houzz,
+Claude, and Claude Code on the web through the selected proxy profile. Other
+sites remain direct.

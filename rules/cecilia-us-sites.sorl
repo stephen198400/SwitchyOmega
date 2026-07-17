@@ -21,3 +21,9 @@
 ; Houzz and first-party static assets
 *.houzz.com
 *.hzcdn.com
+
+; Claude and Claude Code on the web
+*.claude.ai
+*.claude.com
+*.anthropic.com
+*.claudeusercontent.com
