@@ -2,6 +2,7 @@
 
 ; United States government and GIS services
 *.gov
+*.org
 *.gis
 *.arcgis.com
 *.arcgisonline.com
