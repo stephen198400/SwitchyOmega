@@ -28,3 +28,17 @@
 *.claude.com
 *.anthropic.com
 *.claudeusercontent.com
+
+; Gemini web and Google-hosted app resources
+*.gemini.google.com
+*.accounts.google.com
+*.clients6.google.com
+*.gstatic.com
+*.googleusercontent.com
+*.content.googleapis.com
+
+; Reddit and first-party media assets
+*.reddit.com
+*.redd.it
+*.redditstatic.com
+*.redditmedia.com

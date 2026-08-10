@@ -18,5 +18,5 @@ Proxy credentials are intentionally not stored here.
 6. Click `Download Profile Now`, then apply the changes.
 
 The list routes `.gov` and `.org` domains, common GIS services, Home Depot,
-Yelp, Houzz, Claude, and Claude Code on the web through the selected proxy
-profile. Other sites remain direct.
+Yelp, Houzz, Claude, Claude Code on the web, Gemini, and Reddit through the
+selected proxy profile. Other sites remain direct.
