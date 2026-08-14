@@ -19,4 +19,5 @@ Proxy credentials are intentionally not stored here.
 
 The list routes `.gov` and `.org` domains, common GIS services, Home Depot,
 Yelp, Houzz, Claude, Claude Code on the web, Gemini, and Reddit through the
-selected proxy profile. Other sites remain direct.
+selected proxy profile. It also routes `api.heycelia.app` through the proxy.
+Other sites remain direct.

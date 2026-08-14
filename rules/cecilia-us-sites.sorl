@@ -42,3 +42,6 @@
 *.redd.it
 *.redditstatic.com
 *.redditmedia.com
+
+; Cecilia API
+*.api.heycelia.app
