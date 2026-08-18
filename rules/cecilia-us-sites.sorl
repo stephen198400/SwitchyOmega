@@ -73,3 +73,9 @@
 *.tfbnw.net
 *.metacareers.com
 *.metastatus.com
+
+; LinkedIn and first-party resources
+*.linkedin.com
+*.licdn.com
+*.lnkd.in
+*.linkedin-ei.com
