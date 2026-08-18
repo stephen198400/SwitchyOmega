@@ -45,3 +45,31 @@
 
 ; Cecilia API
 *.api.heycelia.app
+
+; Meta ecosystem (excluding WhatsApp)
+*.meta.com
+*.meta.ai
+*.facebook.com
+*.facebook.net
+*.facebookmail.com
+*.fbcdn.net
+*.fbsbx.com
+*.fb.com
+*.fb.me
+*.fb.watch
+*.instagram.com
+*.cdninstagram.com
+*.threads.com
+*.threads.net
+*.messenger.com
+*.m.me
+*.msngr.com
+*.oculus.com
+*.oculuscdn.com
+*.oculusvr.com
+*.workplace.com
+*.mapillary.com
+*.wit.ai
+*.tfbnw.net
+*.metacareers.com
+*.metastatus.com
